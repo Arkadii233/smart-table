@@ -54,6 +54,5 @@ const getRecords = async (query, isUpdated = false) => {
 return {
     getIndexes,
     getRecords
-};
-
+  };
 }
